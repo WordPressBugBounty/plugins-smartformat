@@ -5,7 +5,7 @@
  * Plugin URI: https://www.smartnews.com/
  * Author: SmartNews, Inc.
  * Author URI: https://github.com/smartnews/wp-smartformat/
- * Version: 1.3.0
+ * Version: 1.4.0
  * Text Domain: smartformat
  * Domain Path: /languages/
  * License: GPLv2 or later

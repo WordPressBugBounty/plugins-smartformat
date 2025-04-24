@@ -2,8 +2,8 @@
 Contributors: smartnewsdev
 Tags: smartnews, smartformat, rss
 Requires at least: 4.0.26
-Tested up to: 6.1
-Stable tag: 1.3.0
+Tested up to: 6.8
+Stable tag: 1.4.0
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -35,6 +35,10 @@ Q: How do I become a SmartNews publishing partner?
 A: To learn more, please visit [our publisher support page](https://about.smartnews.com/en/publishers/)
 
 == Changelog ==
+= 1.4.0 =
+
+* Update support: Tested with WordPress 6.8
+
 = 1.3.0 =
 
 * Update support: Tested with WordPress 6.1
