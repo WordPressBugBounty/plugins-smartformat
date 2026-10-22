@@ -1,10 +1,10 @@
 === SmartFormat feed for SmartNews ===
 Contributors: smartnewsdev
 Tags: smartnews, smartformat, rss
-Requires at least: 4.0.26
-Tested up to: 6.8
-Stable tag: 1.4.0
-Requires PHP: 5.2.4
+Requires at least: 6.1
+Tested up to: 7.1
+Stable tag: 1.5.0
+Requires PHP: 8.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +35,12 @@ Q: How do I become a SmartNews publishing partner?
 A: To learn more, please visit [our publisher support page](https://about.smartnews.com/en/publishers/)
 
 == Changelog ==
+= 1.5.0 =
+
+* Update support: Tested with WordPress 7.1
+* Update support: Tested with PHP 8.2, 8.3, 8.4 and 8.5
+* Require PHP 8.2 or later and WordPress 6.1 or later. PHP versions older than 8.2 no longer receive security fixes, including for the PHP2Shell vulnerabilities (CVE-2026-109618, CVE-2026-109619). Make sure your server runs at least the patched release for your PHP branch: 8.2.35, 8.3.36, 8.4.27 or 8.5.12.
+
 = 1.4.0 =
 
 * Update support: Tested with WordPress 6.8
